@@ -1,0 +1,50 @@
+html{
+    height: 100%;
+}
+
+body{
+margin: 0;
+height: 100%;
+font-family: helvetica;
+}
+
+a{
+    color: #fff;
+}
+
+header{
+    background: #888;
+    color: #fff;
+    padding: 10 px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+}
+
+nav{
+    background: #444;
+}
+
+nav ul{
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+nav ul li {
+display: inline-block;
+margin: 10px;
+font-size: 15px;
+}
+
+section{
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px;
+    min-height: 800px;
+}
+
+footer {
+    padding: 10px;
+    background: #888 ;
+    text-align: center;
+  }
