@@ -20,6 +20,7 @@ if (userName) {
 
 //add function to get the user Name
 function getName() {
+  
   //Intake valid user name
   var userName = prompt('What is your name?');
 
